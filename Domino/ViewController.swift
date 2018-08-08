@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     func pruebaJugarAlDomino() {
         
-        // Vamos a empezar a jugar
+        // Vamos a empezar a jugar bien
         let domino = Domino(jugadores: [
             Jugador(nombre: "Marco"),
             Jugador(nombre: "Carla"),
